@@ -1,2 +1,4 @@
-#Progetto Android di prova [![Build Status][ci-img]][ci]
+[![Build Status][ci-img]][ci]
+
+# Progetto Android di prova
 
